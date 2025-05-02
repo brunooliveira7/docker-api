@@ -1,0 +1,1 @@
+Docker-API que criar e gerenciar containers em uma aplicação Node e em um banco de dados Postgres ou SQLite. Utilização de volumes para persistência de dados e o uso em conjunto do Docker Compose para automatizar o processo de execução de múltiplos containers.
