@@ -21,3 +21,7 @@ Este projeto demonstra como criar e gerenciar containers utilizando **Docker** e
 
 ---
 #### ✅ Esse projeto destaca a importância da modularidade e da automação no desenvolvimento moderno com Docker.
+
+<p align="center">
+  <img alt="License" src="">
+</p>
