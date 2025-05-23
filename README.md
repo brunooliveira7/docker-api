@@ -23,5 +23,5 @@ Este projeto demonstra como criar e gerenciar containers utilizando **Docker** e
 #### ✅ Esse projeto destaca a importância da modularidade e da automação no desenvolvimento moderno com Docker.
 
 <p align="center">
-  <img alt="License" src="https://github.com/brunooliveira7/docker-api/blob/main/assets/Docker.png">
+  <img alt="License" src="https://github.com/brunooliveira7/RocketLog/blob/main/assets/API%20entregas%20de%20encomendas.png">
 </p>
